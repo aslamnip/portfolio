@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.ee66c01a.css",
-    "main.js": "/portfolio/static/js/main.7ae1abe4.js",
-    "static/media/landing.png": "/portfolio/static/media/landing.b43ff5b127f72bef4cb9.png",
-    "static/media/ecomamrce.png": "/portfolio/static/media/ecomamrce.206a9a2d5369f6a30218.png",
-    "static/media/workout.png": "/portfolio/static/media/workout.b5d2567dfd0f0dee8726.png",
-    "static/media/asu5.PNG": "/portfolio/static/media/asu5.283838937643da7d216f.PNG",
-    "static/media/phy.PNG": "/portfolio/static/media/phy.05723e4c79cd62aaebfc.PNG",
-    "static/media/asushop.png": "/portfolio/static/media/asushop.c44c8e722c9295d23bed.png",
-    "static/media/aslam.png": "/portfolio/static/media/aslam.72cae3959c1e72592c31.png",
-    "static/media/responsiv.PNG": "/portfolio/static/media/responsiv.e1591db483ce2b79bd67.PNG",
-    "static/media/pinMatch.PNG": "/portfolio/static/media/pinMatch.7e8bcead2efdfc2f4b11.PNG",
-    "static/media/issue.PNG": "/portfolio/static/media/issue.2a8d9e7c25d23520173b.PNG",
-    "index.html": "/portfolio/index.html",
-    "main.ee66c01a.css.map": "/portfolio/static/css/main.ee66c01a.css.map",
-    "main.7ae1abe4.js.map": "/portfolio/static/js/main.7ae1abe4.js.map"
+    "main.css": "/static/css/main.ee66c01a.css",
+    "main.js": "/static/js/main.df8edfc4.js",
+    "static/media/landing.png": "/static/media/landing.b43ff5b127f72bef4cb9.png",
+    "static/media/ecomamrce.png": "/static/media/ecomamrce.206a9a2d5369f6a30218.png",
+    "static/media/workout.png": "/static/media/workout.b5d2567dfd0f0dee8726.png",
+    "static/media/asu5.PNG": "/static/media/asu5.283838937643da7d216f.PNG",
+    "static/media/phy.PNG": "/static/media/phy.05723e4c79cd62aaebfc.PNG",
+    "static/media/asushop.png": "/static/media/asushop.c44c8e722c9295d23bed.png",
+    "static/media/aslam.png": "/static/media/aslam.72cae3959c1e72592c31.png",
+    "static/media/responsiv.PNG": "/static/media/responsiv.e1591db483ce2b79bd67.PNG",
+    "static/media/pinMatch.PNG": "/static/media/pinMatch.7e8bcead2efdfc2f4b11.PNG",
+    "static/media/issue.PNG": "/static/media/issue.2a8d9e7c25d23520173b.PNG",
+    "index.html": "/index.html",
+    "main.ee66c01a.css.map": "/static/css/main.ee66c01a.css.map",
+    "main.df8edfc4.js.map": "/static/js/main.df8edfc4.js.map"
   },
   "entrypoints": [
     "static/css/main.ee66c01a.css",
-    "static/js/main.7ae1abe4.js"
+    "static/js/main.df8edfc4.js"
   ]
 }
