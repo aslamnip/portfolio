@@ -1,0 +1,562 @@
+[
+    {
+        "gender": "male",
+        "name": {
+            "title": "Mr",
+            "first": "Victor",
+            "last": "Ambrose"
+        },
+        "location": {
+            "street": {
+                "number": 3917,
+                "name": "Concession Road 6"
+            },
+            "city": "Delta",
+            "state": "Ontario",
+            "country": "Canada",
+            "postcode": "O9B 0I6",
+            "coordinates": {
+                "latitude": "-72.3782",
+                "longitude": "-116.7800"
+            },
+            "timezone": {
+                "offset": "-12:00",
+                "description": "Eniwetok, Kwajalein"
+            }
+        },
+        "email": "victor.ambrose@example.com",
+        "login": {
+            "uuid": "e00654af-2fb4-4674-91a5-858e589c36ac",
+            "username": "redfrog605",
+            "password": "a1b2c3",
+            "salt": "k9UtyErt",
+            "md5": "67e688b3698d127a326d80a551089816",
+            "sha1": "44c3c9dad6c44d613ff923d89dc5bff9a280042c",
+            "sha256": "3393b77bd2e805a33916357c35b7d3f884d68fd519941932afa7b248a926cacc"
+        },
+        "dob": {
+            "date": "1962-08-27T04:07:11.997Z",
+            "age": 60
+        },
+        "registered": {
+            "date": "2012-08-15T23:34:01.295Z",
+            "age": 10
+        },
+        "phone": "J55 U13-6754",
+        "cell": "B93 E46-7121",
+        "id": {
+            "name": "SIN",
+            "value": "780441994"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/90.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/90.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/90.jpg"
+        },
+        "nat": "CA"
+    },
+    {
+        "gender": "female",
+        "name": {
+            "title": "Miss",
+            "first": "Mirte",
+            "last": "Agricola"
+        },
+        "location": {
+            "street": {
+                "number": 3933,
+                "name": "Herinckhavestraat"
+            },
+            "city": "Teuge",
+            "state": "Flevoland",
+            "country": "Netherlands",
+            "postcode": "1625 YC",
+            "coordinates": {
+                "latitude": "17.7573",
+                "longitude": "-6.3561"
+            },
+            "timezone": {
+                "offset": "-3:00",
+                "description": "Brazil, Buenos Aires, Georgetown"
+            }
+        },
+        "email": "mirte.agricola@example.com",
+        "login": {
+            "uuid": "0f426ab2-43bd-4077-aff7-8f104aaea055",
+            "username": "sadgoose777",
+            "password": "doitnow",
+            "salt": "1ncD9bpU",
+            "md5": "52cf205fb0a6db928728befdf9722749",
+            "sha1": "f78f75daaa10b0a12beb5fd8baf8c366af3c62be",
+            "sha256": "b034e6029da1c6e92a19b4a0e6a74337d95a62b331009a17555dfbeb758348a3"
+        },
+        "dob": {
+            "date": "1970-05-16T15:39:22.595Z",
+            "age": 52
+        },
+        "registered": {
+            "date": "2021-05-02T00:46:47.144Z",
+            "age": 1
+        },
+        "phone": "(0493) 000737",
+        "cell": "(06) 92803127",
+        "id": {
+            "name": "BSN",
+            "value": "41176809"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/50.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/50.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/50.jpg"
+        },
+        "nat": "NL"
+    },
+    {
+        "gender": "male",
+        "name": {
+            "title": "Mr",
+            "first": "Brooklyn",
+            "last": "Haisma"
+        },
+        "location": {
+            "street": {
+                "number": 609,
+                "name": "Blankenbergseweg"
+            },
+            "city": "Den Bommel",
+            "state": "Zeeland",
+            "country": "Netherlands",
+            "postcode": "0921 AP",
+            "coordinates": {
+                "latitude": "-19.2102",
+                "longitude": "74.7161"
+            },
+            "timezone": {
+                "offset": "+9:30",
+                "description": "Adelaide, Darwin"
+            }
+        },
+        "email": "brooklyn.haisma@example.com",
+        "login": {
+            "uuid": "d19d307f-04c4-4b5c-bf8a-faa03d717e50",
+            "username": "happycat580",
+            "password": "jameson",
+            "salt": "OHSCU4fu",
+            "md5": "cef3228cf5e251c5a3539c856f056f0b",
+            "sha1": "11807c5a88941f4def32c088fe01283ed0115208",
+            "sha256": "0cb992aff94e50d478d97ff2894fe2d20cada441d1730ef91e450b623899d9c1"
+        },
+        "dob": {
+            "date": "1991-09-20T09:56:31.024Z",
+            "age": 31
+        },
+        "registered": {
+            "date": "2016-08-26T06:40:21.302Z",
+            "age": 6
+        },
+        "phone": "(0503) 766649",
+        "cell": "(06) 41853203",
+        "id": {
+            "name": "BSN",
+            "value": "39519208"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/50.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/50.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/50.jpg"
+        },
+        "nat": "NL"
+    },
+    {
+        "gender": "male",
+        "name": {
+            "title": "Mr",
+            "first": "Brayden",
+            "last": "Hughes"
+        },
+        "location": {
+            "street": {
+                "number": 5178,
+                "name": "Grange Road"
+            },
+            "city": "Tullow",
+            "state": "Cavan",
+            "country": "Ireland",
+            "postcode": 74061,
+            "coordinates": {
+                "latitude": "-87.4543",
+                "longitude": "-154.4008"
+            },
+            "timezone": {
+                "offset": "+8:00",
+                "description": "Beijing, Perth, Singapore, Hong Kong"
+            }
+        },
+        "email": "brayden.hughes@example.com",
+        "login": {
+            "uuid": "c5b9f4e1-533c-4711-89d0-f1a48f1b724e",
+            "username": "greenostrich101",
+            "password": "memphis",
+            "salt": "FapiPaYD",
+            "md5": "492787904d87c5f509f640991bc793fe",
+            "sha1": "c63d467979cfbf228ecd206d28f9a92be42b1adb",
+            "sha256": "5e914c93f4dd0e151a6c8b289ea9c91be7abe81434c5af623b5d74e794aa82c1"
+        },
+        "dob": {
+            "date": "1959-01-24T06:40:15.946Z",
+            "age": 63
+        },
+        "registered": {
+            "date": "2003-09-11T12:40:11.903Z",
+            "age": 19
+        },
+        "phone": "021-083-5024",
+        "cell": "081-321-1254",
+        "id": {
+            "name": "PPS",
+            "value": "8944919T"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/39.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/39.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/39.jpg"
+        },
+        "nat": "IE"
+    },
+    {
+        "gender": "male",
+        "name": {
+            "title": "Mr",
+            "first": "Nils",
+            "last": "Fernandez"
+        },
+        "location": {
+            "street": {
+                "number": 2001,
+                "name": "Rue Courbet"
+            },
+            "city": "Paris",
+            "state": "Rhône",
+            "country": "France",
+            "postcode": 40866,
+            "coordinates": {
+                "latitude": "-79.0429",
+                "longitude": "-123.8321"
+            },
+            "timezone": {
+                "offset": "0:00",
+                "description": "Western Europe Time, London, Lisbon, Casablanca"
+            }
+        },
+        "email": "nils.fernandez@example.com",
+        "login": {
+            "uuid": "2eda8b7b-e157-4628-9b81-79145d1a906b",
+            "username": "organicpanda284",
+            "password": "karen1",
+            "salt": "uLhnjKuz",
+            "md5": "a4561552f6d6a600b7841d88ea88c04a",
+            "sha1": "5285dc2f9d3dd34faf1e683913b4fce48e6413fc",
+            "sha256": "5a39e2bbd982b50198b7a992e233dd5e7eb69e9f15e1003243379e2c7aabb894"
+        },
+        "dob": {
+            "date": "1995-04-30T06:43:46.973Z",
+            "age": 27
+        },
+        "registered": {
+            "date": "2014-07-29T00:14:48.160Z",
+            "age": 8
+        },
+        "phone": "02-25-12-26-34",
+        "cell": "06-61-97-87-09",
+        "id": {
+            "name": "INSEE",
+            "value": "1950311451921 92"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/86.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/86.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/86.jpg"
+        },
+        "nat": "FR"
+    },
+    {
+        "gender": "male",
+        "name": {
+            "title": "Mr",
+            "first": "Niilo",
+            "last": "Koivisto"
+        },
+        "location": {
+            "street": {
+                "number": 7503,
+                "name": "Rautatienkatu"
+            },
+            "city": "Heinävesi",
+            "state": "Finland Proper",
+            "country": "Finland",
+            "postcode": 41490,
+            "coordinates": {
+                "latitude": "24.0004",
+                "longitude": "56.7201"
+            },
+            "timezone": {
+                "offset": "+3:00",
+                "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+            }
+        },
+        "email": "niilo.koivisto@example.com",
+        "login": {
+            "uuid": "a6fc73c9-6416-46f8-9e30-d0f32097417d",
+            "username": "silverbear338",
+            "password": "ddddddd",
+            "salt": "muTRxlrf",
+            "md5": "f00bff360676fd04096f12ce0ff5af50",
+            "sha1": "3963e54581e4f829a4ed418f6418c6c51821a8ec",
+            "sha256": "6d4f79327aabe604f6dd3e872fd720f4d09e07904ff410449d97b97d8d739464"
+        },
+        "dob": {
+            "date": "1962-09-24T11:51:19.518Z",
+            "age": 60
+        },
+        "registered": {
+            "date": "2021-09-06T23:00:17.774Z",
+            "age": 1
+        },
+        "phone": "03-169-796",
+        "cell": "042-156-18-48",
+        "id": {
+            "name": "HETU",
+            "value": "NaNNA427undefined"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/87.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/87.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/87.jpg"
+        },
+        "nat": "FI"
+    },
+    {
+        "gender": "male",
+        "name": {
+            "title": "Monsieur",
+            "first": "Siegfried",
+            "last": "Boyer"
+        },
+        "location": {
+            "street": {
+                "number": 3822,
+                "name": "Rue du Village"
+            },
+            "city": "La Rippe",
+            "state": "Zürich",
+            "country": "Switzerland",
+            "postcode": 4547,
+            "coordinates": {
+                "latitude": "3.2010",
+                "longitude": "-94.7136"
+            },
+            "timezone": {
+                "offset": "+9:30",
+                "description": "Adelaide, Darwin"
+            }
+        },
+        "email": "siegfried.boyer@example.com",
+        "login": {
+            "uuid": "f0b8042a-0d79-45a0-8163-1e5814753223",
+            "username": "greenostrich112",
+            "password": "gymnastic",
+            "salt": "zDKC9Eem",
+            "md5": "2b8e879cfd1935aa894fa7b67a60633e",
+            "sha1": "373e9111f8776434e11fbdc8c077a52886719db5",
+            "sha256": "ec912c5f9df3467f24010d466ab1f0c51275bb2a59afcabfd6cbffdb7f74689b"
+        },
+        "dob": {
+            "date": "1973-11-13T05:18:14.759Z",
+            "age": 48
+        },
+        "registered": {
+            "date": "2003-02-03T14:39:29.482Z",
+            "age": 19
+        },
+        "phone": "078 882 55 71",
+        "cell": "078 333 40 83",
+        "id": {
+            "name": "AVS",
+            "value": "756.8201.8360.40"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/70.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/70.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/70.jpg"
+        },
+        "nat": "CH"
+    },
+    {
+        "gender": "male",
+        "name": {
+            "title": "Mr",
+            "first": "Veer",
+            "last": "Pujari"
+        },
+        "location": {
+            "street": {
+                "number": 1651,
+                "name": "Car St"
+            },
+            "city": "Bhilai",
+            "state": "Daman and Diu",
+            "country": "India",
+            "postcode": 38859,
+            "coordinates": {
+                "latitude": "9.8022",
+                "longitude": "-15.1842"
+            },
+            "timezone": {
+                "offset": "-10:00",
+                "description": "Hawaii"
+            }
+        },
+        "email": "veer.pujari@example.com",
+        "login": {
+            "uuid": "de76e1f6-3b47-437a-8559-13295689b3e9",
+            "username": "purplelion705",
+            "password": "mother1",
+            "salt": "SrhqbKHH",
+            "md5": "c303534c6f8b996ea7074ff2f4b5bbd1",
+            "sha1": "19ba9593f78d731bbaf3ed2db745d914a676b885",
+            "sha256": "601999d1c0218a6bcdc07d7bb7a4de87413bdcc18394a29f6633446f0ce3ae7f"
+        },
+        "dob": {
+            "date": "1954-05-11T08:01:41.578Z",
+            "age": 68
+        },
+        "registered": {
+            "date": "2005-08-28T21:50:52.044Z",
+            "age": 17
+        },
+        "phone": "8698996262",
+        "cell": "7972270433",
+        "id": {
+            "name": "UIDAI",
+            "value": "482040403440"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/4.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/4.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/4.jpg"
+        },
+        "nat": "IN"
+    },
+    {
+        "gender": "female",
+        "name": {
+            "title": "Mrs",
+            "first": "Vilma",
+            "last": "Juntunen"
+        },
+        "location": {
+            "street": {
+                "number": 920,
+                "name": "Siilitie"
+            },
+            "city": "Taivalkoski",
+            "state": "South Karelia",
+            "country": "Finland",
+            "postcode": 26952,
+            "coordinates": {
+                "latitude": "65.1003",
+                "longitude": "-71.3894"
+            },
+            "timezone": {
+                "offset": "-11:00",
+                "description": "Midway Island, Samoa"
+            }
+        },
+        "email": "vilma.juntunen@example.com",
+        "login": {
+            "uuid": "39133a57-a2ec-4dc0-a227-82f3250a58ca",
+            "username": "organicladybug116",
+            "password": "amber",
+            "salt": "XJGmt442",
+            "md5": "cec9918dd5ef5ead83576ff9e1a0208d",
+            "sha1": "bad2bda0768fcaccd430faed5622b3d4846b4e45",
+            "sha256": "7dcd9ead7cb0085bad2a68bfbd4b3fde15be9237889e0ff0e783e408ec2b3dde"
+        },
+        "dob": {
+            "date": "1957-07-04T12:59:52.363Z",
+            "age": 65
+        },
+        "registered": {
+            "date": "2009-07-01T06:00:04.184Z",
+            "age": 13
+        },
+        "phone": "03-740-378",
+        "cell": "045-152-21-78",
+        "id": {
+            "name": "HETU",
+            "value": "NaNNA476undefined"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/11.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/11.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/11.jpg"
+        },
+        "nat": "FI"
+    },
+    {
+        "gender": "female",
+        "name": {
+            "title": "Mrs",
+            "first": "Heidi",
+            "last": "Chapman"
+        },
+        "location": {
+            "street": {
+                "number": 2966,
+                "name": "Chester Road"
+            },
+            "city": "Manchester",
+            "state": "Bedfordshire",
+            "country": "United Kingdom",
+            "postcode": "I55 8DL",
+            "coordinates": {
+                "latitude": "-72.3275",
+                "longitude": "-131.5726"
+            },
+            "timezone": {
+                "offset": "+11:00",
+                "description": "Magadan, Solomon Islands, New Caledonia"
+            }
+        },
+        "email": "heidi.chapman@example.com",
+        "login": {
+            "uuid": "535bb624-14c0-445f-9229-fcea43993d7e",
+            "username": "ticklishmeercat930",
+            "password": "horton",
+            "salt": "FbFgsGYd",
+            "md5": "291c09cf67aabc55d5982a0391af5960",
+            "sha1": "b1b39b6d9d1616c0cf661d21f68f7cc95d4cbedb",
+            "sha256": "adc759a5d7cf8f29067c82ac5bc305a117cd782175e7f093c96909789c991856"
+        },
+        "dob": {
+            "date": "1950-07-03T17:27:19.197Z",
+            "age": 72
+        },
+        "registered": {
+            "date": "2002-09-18T06:02:37.020Z",
+            "age": 20
+        },
+        "phone": "01103 84912",
+        "cell": "07249 257409",
+        "id": {
+            "name": "NINO",
+            "value": "MM 44 81 52 Y"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/89.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/89.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/89.jpg"
+        },
+        "nat": "GB"
+    }
+]

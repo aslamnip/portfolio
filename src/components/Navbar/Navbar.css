@@ -1,0 +1,105 @@
+.navSection {
+    z-index: 5;
+}
+
+
+.navForWeb{
+    width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    z-index: 2;
+    background: #000011b3;
+    color: white;
+}
+.navMainDiv {
+    
+    display: flex;
+    justify-content: space-between;
+    z-index: 1;
+    margin: 0 auto;
+
+
+}
+
+
+
+.logoForLg{
+    height: 55px;
+    width: 120px;
+    padding: 10px;
+}
+
+
+
+.navMainDiv ul {
+    list-style: none;
+    display: flex;
+    margin: auto 0;
+    cursor: pointer;
+}
+
+.navMainDiv ul li {
+    margin: auto 10px;
+    padding: 5px;
+
+}
+
+.navMainDiv a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    padding: 5px;
+
+}
+
+.navMainDiv li a:hover {
+    color: rgb(255, 255, 255);
+    border-bottom: 1px solid rgb(195, 203, 211);
+    transition: 5s;
+}
+
+
+
+.activeWeb {
+    border-bottom: 1px solid aliceblue;
+}
+
+
+#darkButton {
+    background-color: #000011;
+    color: white;
+    font-size: 25px;
+    border-bottom: none;
+    border: 1px solid none;
+    outline: red;
+    margin-left: 14px;
+    padding: 4px 10px;
+}
+
+
+
+
+/* small screen */
+@media only screen and (max-width:1200px) {
+    .NavIcon {
+        display: none;
+    }
+
+    .logoForLg {
+        font-size: 20px;
+    }
+}
+
+
+.navSmallComponent {
+    display: none;
+}
+
+
+@media only screen and (max-width:992px) {
+    .navSmallComponent {
+        display: block;
+    }
+
+}

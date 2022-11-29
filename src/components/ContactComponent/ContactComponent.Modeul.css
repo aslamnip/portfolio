@@ -1,0 +1,46 @@
+.constactComponent {
+    box-sizing: border-box;
+    width: 99%;
+    padding: 25px;
+    z-index: -1;
+}
+
+#fromInput {
+    background: none;
+    color: rgb(255, 255, 255);
+    border: 1px solid rgb(10, 239, 247);
+}
+
+.secondayContact {
+    width: 75%;
+    margin: 30px auto;
+}
+
+#formBasicEmail,
+#formBasicTextInput,
+#formBasicTextInput,
+#BtnInput {
+    color: rgb(255, 255, 255);
+    background: none;
+    border: 1px solid rgb(0, 200, 255);
+}
+
+#try {
+    background-color: rgba(2, 21, 95, 0.401);
+    border: 0.1px solid rgb(0, 200, 255);
+}
+
+#try:checked {
+    background-color: rgb(2, 43, 249);
+    border: 0.1px solid rgb(0, 255, 60);
+}
+
+
+
+@media only screen and (max-width:768px) {
+
+    .secondayContact {
+        width: 95%;
+        margin: 30px auto;
+    }
+}

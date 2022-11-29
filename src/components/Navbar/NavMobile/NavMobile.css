@@ -1,0 +1,211 @@
+@media only screen and (max-width:992px) {
+    .navForWeb {
+        display: none;
+    }
+
+
+
+    .logForSm {
+        height: 45px;
+        width: 100px;
+        padding: 10px;
+        margin-left: 20px;
+
+    }
+
+    .topMailBar{
+        display: block;
+        color: white;
+        margin-left: auto;
+        padding: 10px;
+        font-size: 24px;
+
+    }
+
+    .navForSmall {
+        display: block;
+        border-radius: 20px 20px 0 0;
+        position: fixed;
+        bottom: 0;
+        background-color: #000011;
+        width: 100%;
+        z-index: 2;
+
+    }
+
+
+    .navForSmall ul {
+        display: flex;
+        list-style: none;
+        margin: auto auto;
+        justify-content: space-between;
+
+
+    }
+
+    .navForSmall li {
+        width: 45px;
+        padding: 10px 0;
+        text-align: center;
+        cursor: pointer;
+        align-items: center;
+
+    }
+
+    .navForSmall li {
+        text-decoration: none;
+
+    }
+
+
+    .NavIconSmall,
+    .NavIconSmallDark {
+        color: white;
+        font-size: 25px;
+    }
+
+    .smNavText {
+        color: white;
+        text-align: center;
+        font-size: 8px;
+        margin-bottom: 0;
+    }
+
+    .activeSmall .NavIconSmall {
+        transform: translateY(-90%);
+        position: relative;
+        z-index: 1;
+        transition: .7s;
+    }
+
+    .activeSmall .smNavText {
+        font-size: 12px;
+    }
+
+    .activeSmall #testmonial {
+        margin-left: -6px;
+    }
+
+
+    .navForSmall a {
+        text-decoration: none;
+    }
+
+    .indi {
+        display: block;
+        width: 60px;
+        height: 60px;
+        border-radius: 50%;
+        background: linear-gradient(to top, #0095158f, #090958a8, #0c65b3db);
+        position: absolute;
+        top: 70px;
+        opacity: 0;
+        margin-left: -8px;
+        border: 5px solid white;
+    }
+
+    .activeSmall .indi {
+        opacity: 1;
+        top: -45%;
+        transition: .5s;
+
+    }
+
+
+
+    /* .indicator {
+        position: absolute;
+        height: 70px;
+        width: 70px;
+        background-color: #ff0000;
+        transform: translateY(-50%);
+        border-radius: 50%;
+        border: 8px solid white;
+        left: 24px;
+        display: none;
+        opacity: 0;
+    }
+
+    .indBefore {
+        height: 20px;
+        width: 10px;
+        background-color: rgb(255, 255, 255);
+        position: absolute;
+        top: 19px;
+        left: -14px;
+        border-radius: 20px 0px 0px 20px;
+        rotate: 120deg;
+    }
+
+    .indAfter {
+        height: 19px;
+        width: 10px;
+        background-color: rgb(255, 255, 255);
+        position: absolute;
+        top: 19px;
+        right: -14px;
+        border-radius: 0px 20px 20px 0px;
+        rotate: 240deg;
+     } 
+
+    .indicatorClass {
+        background-color: #ff0000;
+    }
+
+    .navForSmall li:nth-child(1) .activeSmall~.indicator {
+        transform: translateX(calc(80px * 0));
+    }
+
+    .navForSmall li:nth-child(2) a.activeSmall~.indicator {
+        transform: translateX(calc(80px * 1));
+    }
+
+    .navForSmall li:nth-child(3) .activeSmall~.indicator {
+        transform: translateX(calc(80px * 2));
+    }
+
+    .navForSmall li:nth-child(4) .activeSmall~.indicator {
+        transform: translateX(calc(80px * 3));
+    }
+
+    .navForSmall li:nth-child(5) .activeSmall~.indicator {
+        transform: translateX(calc(80px * 4));
+    } */
+
+}
+
+@media only screen and (max-width:340px) {
+
+    /* .indicator {
+        position: absolute;
+        height: 50px;
+        width: 50px;
+        left: auto;
+        transform: translateY(-40%);
+        border: 5px solid white;
+
+    } */
+
+    .NavIconSmall,
+    .NavIconSmallDark {
+        color: white;
+        font-size: 18px;
+    }
+
+    .indi {
+        height: 50px;
+        width: 50px;
+        margin: -3px;
+
+    }
+
+    .activeSmall .indi {
+        opacity: 1;
+        top: -27%;
+        transition: .5s;
+
+        text-align: center;
+
+    }
+
+}

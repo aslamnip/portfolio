@@ -1,0 +1,64 @@
+.buttomMoreInfo{
+    padding: 10px;
+    box-shadow: 0px 0px 8px 0px white;
+    background: none;
+    color: white;transition: 0.5s;
+    border-radius: 10px;
+}
+.personalInfoMainDiv {
+    width: 80%;
+    margin: 5px auto;
+    padding: 20px;
+    text-align: center;
+    transition: 1s;
+}
+
+.personalInfoMainDiv td {
+    text-align: left;
+    width: 150px;
+
+}
+
+
+/* 2nd table */
+.twoTable {
+    border-spacing: 0px;
+    margin: 0 auto;
+}
+
+
+.smallt {
+    font-size: 8px;
+}
+
+.twoTable td {
+    width: 120px;
+
+
+}
+
+.twoTable th,
+.twoTable td {
+    border: 1px dotted whitesmoke;
+    padding: 8px;
+    text-align: center;
+}
+
+/* small screen */
+
+@media only screen and (max-width:768px) {
+    .personalInfoMainDiv {
+        width: 100%;
+    }
+
+    .personalInfoMainDiv td,  .personalInfoMainDiv th  {
+        margin: 0px auto;
+        font-size: 12px;
+        padding: 2px;
+
+    }
+
+    #dotted {
+        width: 10px;
+    }
+}

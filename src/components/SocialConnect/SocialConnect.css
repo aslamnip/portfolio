@@ -1,0 +1,50 @@
+.socialMain {
+    background-color:#5551512b;
+    width: 50%;
+    margin: 20px auto 10px;
+    text-align: center;
+}
+
+
+
+.socialMain ul {
+    list-style: none;
+    padding: 0;
+}
+
+.socialMain li {
+    border: 0.5px dotted white;
+    margin-top: 10px;
+    padding: 5px;
+    width: auto;
+}
+
+.socialMain a {
+    color: white;
+    text-decoration: none;
+
+
+}
+
+.socialMain a:hover {
+    color: inherit;
+}
+
+.socialMain li:hover {
+    background: #000015;
+}
+
+
+@media only screen and (max-width:992px) {
+    .socialMain {
+        width: 80%;
+    }
+}
+
+@media only screen and (max-width:768px) {
+    .socialMain {
+        width: 90%;
+        font-size: 14px;
+       
+    }
+}

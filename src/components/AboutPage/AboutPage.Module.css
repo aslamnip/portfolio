@@ -1,0 +1,67 @@
+.tableAbout {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+    box-sizing: border-box;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+table {
+    border-collapse: unset !important;
+    border-spacing: 25px;
+    margin: 0 auto;
+}
+
+.skillName {
+    width: 75%;
+    letter-spacing: 10px;
+    text-align: left;
+}
+
+
+.tableAbout td {
+    /* border: 1px rgb(255, 255, 255) solid; */
+    color: white;
+    /* background-color: rgba(0, 0, 0, 0.294); */
+    padding: 10px 50px;
+    box-shadow: 0px 0px 8px 0px white;
+    border-radius: 5px;
+
+}
+
+
+
+@media only screen and (max-width:992px) {
+    .tableAbout {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .skillName {
+        width: 60%;
+    }
+
+    table {
+        border-spacing: 20px;
+    }
+    
+
+    .tableAbout td {
+        padding: 10px 30px;
+
+    }
+
+}
+
+@media only screen and (max-width:576px) {
+    .tableAbout td {
+        padding: 5px;
+
+    }
+    .tskillName {
+        width: 50%;
+    }
+
+}

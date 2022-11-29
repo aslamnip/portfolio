@@ -1,0 +1,98 @@
+.TestmonialComponent {
+    margin: 100px 0;
+}
+
+.main {
+    height: 600px;
+    width: 95%;
+    overflow: hidden;
+    padding: 5px;
+}
+
+
+
+.slidingPart {
+    height: 270px;
+    width: 65%;
+    display: flex;
+    justify-content: space-between;
+    background: linear-gradient(to right, #000012, #0054816a, #4851973e, #00446e6c, #000012);
+    /* background-color: rgb(21 54 82 / 61%); */
+    box-shadow: inset 0px 0px 10px 2px rgba(255, 255, 255, 0.754);
+    border-radius: 20px;
+    transition: 0.5s;
+    margin-top: 30px;
+    align-items: center;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.slidingPart div h5 {
+    margin-top: 20px;
+}
+
+
+.slidingPart img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 1px white solid;
+}
+
+.main .slidingPart:nth-child(even) {
+    color: rgb(0, 241, 245);
+    margin-left: auto;
+}
+
+
+.buttonProject {
+    color: white;
+    background: none;
+    padding: 5px;
+    font-style: italic;
+    font-size: 16px;
+    border: 1px solid white;
+    text-decoration: none;
+    margin: 0 auto;
+}
+
+@media only screen and (max-width:992px) {
+    .slidingPart {
+        width: 90%;
+        display: block;
+
+    }
+
+    .slidingPart div {
+        width: 100%;
+        font-size: 11px;
+        margin-top: 3px;
+        padding: 4px 8px 0;
+
+    }
+
+    .slidingPart div h5 {
+        margin-top: -5px;
+
+    }
+
+    .slidingPart img {
+        height: 80px;
+        width: 80px;
+        border-radius: 50%;
+        border: 1px white solid;
+    }
+}
+
+@media only screen and (max-width:350px) {
+
+    .slidingPart div {
+        font-size: 10px;
+        padding: 5px;
+
+    }
+
+    .slidingPart div h5 {
+        font-size: 10px;
+    }
+}

@@ -1,0 +1,22 @@
+.errorMain {
+    width: 60%;
+    color: rgb(0, 255, 21);
+    margin: 40vh auto;
+    text-align: center;
+    align-items: center;
+
+}
+
+.errorMessage {
+    text-align: center;
+}
+
+
+@media only screen and (max-width:768px) {
+    .errorMain {
+       
+        margin: 35vh auto;
+        
+
+    }
+}

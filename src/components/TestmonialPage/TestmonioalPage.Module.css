@@ -1,0 +1,84 @@
+.clientsMainDiv {
+    margin: 85px 0 0;
+    height: 80vh;
+    overflow-y: scroll;
+
+
+}
+
+.rowFlex {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    text-align: center;
+
+}
+
+.eachReview {
+    height: 400px;
+    width: 30%;
+    margin: 1% 0;
+    border-radius: 40px;
+    border: 1px seashell solid;
+    font-size: 16px;
+    transition: 0.5s;
+    box-shadow: 0px 0px 10px 1px white,
+                0 0 5px 1px rgb(106, 131, 57),
+                0 0 5px 1px rgb(140, 160, 49),
+                0 0 5px 1px rgb(4, 85, 248)
+}
+
+.eachReview:hover {
+    transform: translateY(-2px);
+    transition: 0.5s;
+}
+
+.eachReview:nth-child(odd) {
+    height: 200px;
+    margin-top: 10%;
+}
+
+
+.notePart {
+    margin-top: 10%;
+    padding: 10px 5px;
+}
+
+.imagePart {
+    padding: 20px 0;
+}
+
+.eachReview:nth-child(odd) .imagePart {
+    display: none;
+}
+
+.eachReview:nth-child(odd) .notePart {
+    margin-top: 1px;
+    padding: 20px 20px;
+}
+
+
+#backToTop{
+    position: fixed;
+    bottom: 80px;
+    color: rgb(2, 115, 252);
+}
+
+@media only screen and (max-width:1200px) {
+    .eachReview {
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width:992px) {
+    .eachReview {
+        font-size: 13px;
+    }
+}
+
+@media only screen and (max-width:768px) {
+    .eachReview {
+        width: 90%;
+        margin: 20px auto 200px;
+    }
+}

@@ -1,0 +1,42 @@
+.fotter {
+    background-color: #0000002b;
+    color: white;
+    margin-bottom: -15px;
+}
+
+.fotterNav {
+    margin: 0 auto;
+    padding: 2px 20px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.fotterNav ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+}
+
+.fotterNav li {
+    margin-right: 25%;
+}
+
+.fotterNav a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.fotterNav a:hover {
+    color: rgb(0, 255, 251);
+}
+
+@media only screen and (max-width:768px) {
+    .fotter {
+        padding-bottom: 50px;
+    }
+    .willHideList {
+        display: none;
+    }
+    
+}
