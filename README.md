@@ -1,4 +1,4 @@
-Reat Rounting not working after refresh on github?
+React Rounting not working after refresh on github?
 i found a soluation here.
 https://github.com/rafgraph/spa-github-pages
 
